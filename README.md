@@ -6,7 +6,7 @@
 
 ## Overview
 <!-- Write Overview about this project -->
-- Circuit error filtering code filters the noisy result from the probability distribution with probability.
+- Circuit error filtering code filters the noisy result from the probability distribution.
 
 
 ## Features
